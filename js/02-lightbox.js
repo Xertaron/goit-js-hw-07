@@ -21,5 +21,3 @@ const lightbox = new SimpleLightbox(".gallery a", {
   captionsData: "alt",
   captionsDelay: 250,
 });
-
-console.log(galleryItems);
